@@ -33,3 +33,9 @@ yarn-error.*
 
 # typescript
 *.tsbuildinfo
+
+notes.txt
+.DS_Store
+*.temp.*
+**/*.temp/
+logs/
